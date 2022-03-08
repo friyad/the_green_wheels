@@ -17,4 +17,5 @@
 - Firebase
 - React-router
 - Swiper Js
+- Tailwind CSS
 - CSS + SASS (for Custom CSS)
